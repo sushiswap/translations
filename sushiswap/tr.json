@@ -998,7 +998,7 @@
     "Your transaction will revert if the price changes unfavorably by more than this percentage.": "Fiyat bu yüzdeden daha fazla değişirse işleminiz geri döner.",
     "Your transaction will revert if there is a large, unfavorable price movement before it is confirmed.": "Onaylanmadan önce büyük, olumsuz bir fiyat hareketi olursa işleminiz geri alınır.",
     "Your transactions will appear here...": "İşlemleriniz burada görünecektir...",
-    "Your {0} will be split into:": "0} öğeniz bölünecek",
+    "Your {0} will be split into:": "{0} öğeniz bölünecek",
     "Your {exchange} {0}\/{1} liquidity will become SushiSwap {2}\/{3} liquidity.": "{exchange} {0} \/ {1} likiditeniz SushiSwap {2} \/ {3} likiditesine dönüşecektir.",
     "You’ll see these icons next to your balance in various input fields.": "Çeşitli giriş alanlarında bakiyenizin yanında bu simgeleri göreceksiniz.",
     "Zap": "Zap",
