@@ -1035,7 +1035,7 @@
     "{0} Strategy": "{0} Stratégie",
     "{0} days": "",
     "{0} per {1}": "%1$s par %2$s",
-    "{0} {1, plural, one {Asset} other {Assets}} Selected": "%s {1, plusieurs, un %1$s autre %1$s} Sélectionné",
+    "{0} {1, plural, one {Asset} other {Assets}} Selected": "",
     "{0} {1} per {2}": "{0} {1} par {2}",
     "{0} {sign} market rate": "{0} {sign} taux du marché",
     "{0}\/{1} Burned": "{0}\/{1} Brûlé",

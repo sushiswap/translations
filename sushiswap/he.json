@@ -1028,7 +1028,7 @@
     "xSUSHI in Aave": "",
     "xSUSHI in BentoBox": "",
     "xSUSHI in Cream": "",
-    "{0, plural, one {Token} many {Tokens}}": "{0, רבים, {מטבע} {מטבעות}} רבים",
+    "{0, plural, one {Token} many {Tokens}}": "",
     "{0} Addresses": "",
     "{0} Deposited": "{0} הופקד",
     "{0} Deposited:": "",
