@@ -1,5 +1,7 @@
 {
   "% Fee": "",
+  "(collateral on borrows)": "",
+  "(lent assets)": "",
   ") to receive SLP tokens.": ") pour recevoir les tokens SLP.",
   "*Pairs with this symbol have a TWAP oracle.": "",
   "+ Add Recipient (optional)": "+ Ajouter un destinataire (optionnel)",
@@ -370,6 +372,7 @@
   "It seems like you have open orders while the limit order master contract is not approved. Please make\nsure you approved the limit order master contract or the order will not execute": "",
   "It seems like you have open orders while the limit order master contract is not yet approved. Please make\nsure you have approved the limit order master contract or the order will not execute": "",
   "Join the community on Discord.": "Rejoignez la communauté sur Discord.",
+  "Kashi": "",
   "Kashi Farm": "",
   "Kashi Farms": "",
   "LIVE": "",

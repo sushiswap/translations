@@ -1,5 +1,7 @@
 {
   "% Fee": "% Fee",
+  "(collateral on borrows)": "(collateral on borrows)",
+  "(lent assets)": "(lent assets)",
   ") to receive SLP tokens.": ") to receive SLP tokens.",
   "*Pairs with this symbol have a TWAP oracle.": "*Pairs with this symbol have a TWAP oracle.",
   "+ Add Recipient (optional)": "+ Add Recipient (optional)",
@@ -370,6 +372,7 @@
   "It seems like you have open orders while the limit order master contract is not approved. Please make\nsure you approved the limit order master contract or the order will not execute": "It seems like you have open orders while the limit order master contract is not approved. Please make\nsure you approved the limit order master contract or the order will not execute",
   "It seems like you have open orders while the limit order master contract is not yet approved. Please make\nsure you have approved the limit order master contract or the order will not execute": "It seems like you have open orders while the limit order master contract is not yet approved. Please make\nsure you have approved the limit order master contract or the order will not execute",
   "Join the community on Discord.": "Join the community on Discord.",
+  "Kashi": "Kashi",
   "Kashi Farm": "Kashi Farm",
   "Kashi Farms": "Kashi Farms",
   "LIVE": "LIVE",
