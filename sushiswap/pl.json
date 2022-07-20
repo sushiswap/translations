@@ -322,7 +322,7 @@
   "Fixed price*": "Stała cena*",
   "Fixed price, doesn't change over time": "Stała Cena, nie zmienia się w czasie",
   "Fixed ratio": "Stały Stosunek",
-  "For every swap on the exchange on every chain, 0.05% of the swap fees are distributed as SUSHI\nproportional to your share of the SushiBar. When your SUSHI is staked into the SushiBar, you receive\nxSUSHI in return for voting rights and a fully composable token that can interact with other protocols.\nYour xSUSHI is continuously compounding, when you unstake you will receive all the originally deposited\nSUSHI and any additional from fees.": "Za każdą zamianę na giełdzie w każdej sieci, 0,05% opłat za swap jest rozdzielane jako SUSHI\nproporcjonalnie do Twojego udziału w SushiBar. Kiedy Twoje SUSHI zostanie zastakowane w SushiBar, otrzymasz\nxSUSHI w zamian za prawa głosu oraz w pełni skomponowany token, który może wchodzić w interakcje z innymi protokołami.\nTwoje xSUSHI stale się odkłada i pomnaża, po odstakowaniu otrzymasz wszystkie pierwotnie zdeponowane\nSUSHI i wszelkie dodatkowe tokeny z opłat.",
+  "For every swap on the exchange on every chain, 0.045% of the swap fees are distributed as SUSHI\nproportional to your share of the SushiBar and 0.005% is distributed to the Sushi Treasury. When your SUSHI is staked into the SushiBar, you receive\nxSUSHI in return for voting rights and a fully composable token that can interact with other protocols.\nYour xSUSHI is continuously compounding, when you unstake you will receive all the originally deposited\nSUSHI and any additional from fees.": "",
   "Forum & Proposals": "Forum & Propozycje",
   "From": "Od",
   "Funding source:": "Źródło Zbiórki:",
